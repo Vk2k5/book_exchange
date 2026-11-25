@@ -17,7 +17,7 @@ listings = {
     "B01": {
         "book_name": "Introduction to Algorithms",
         "possessed_by": "S101",
-        "status": "Available"
+        "status": "Closed"
     },
     "B02": {
         "book_name": "Clean Code",
@@ -27,7 +27,7 @@ listings = {
     "B03": {
         "book_name": "Python Programming",
         "possessed_by": "S103",
-        "status": "Available"
+        "status": "Requested"
     },
     "B04": {
         "book_name": "Database Management Systems",
@@ -37,7 +37,7 @@ listings = {
     "B05": {
         "book_name": "Operating System Concepts",
         "possessed_by": "S105",
-        "status": "Available"
+        "status": "Requested"
     }
 }
 
